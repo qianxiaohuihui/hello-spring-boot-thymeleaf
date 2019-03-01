@@ -1,0 +1,6 @@
+spring:
+  thymeleaf: false  #����ʱ��ϵ���棬�����޷�����ʵʱҳ��
+  mode: LEGACYHTML5       #�÷��ϸ��HTML
+  encoding: UTF-8
+  servlet:
+    content-type: text/html

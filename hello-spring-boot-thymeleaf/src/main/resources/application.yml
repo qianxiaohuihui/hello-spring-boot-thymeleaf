@@ -1,0 +1,6 @@
+spring:
+  thymeleaf: false  #开发时关系缓存，否则无法看到实时页面
+  mode: LEGACYHTML5       #用非严格的HTML
+  encoding: UTF-8
+  servlet:
+    content-type: text/html
